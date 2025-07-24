@@ -1,1 +1,1 @@
-print("ğit hub")
+print("ğit")
