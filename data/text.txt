@@ -1,0 +1,4 @@
+name = "Bob"
+
+def h():
+print(99)
