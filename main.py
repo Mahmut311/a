@@ -1,1 +1,1 @@
-print("ğit")
+print("z xtk")
