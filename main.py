@@ -1,1 +1,1 @@
-print("z xtk")
+print("я чел")
