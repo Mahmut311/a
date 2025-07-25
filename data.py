@@ -1,1 +1,1 @@
-print("DFGBNFBDFNLKGNAEROIGKNAERJGŞANG")
+print("mmmmmmmmmmmmmmmmmmmm")
